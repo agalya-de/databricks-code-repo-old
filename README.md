@@ -1,2 +1,2 @@
 # databricks-code-repo
-Repo to maintain the Databricks notebook and other objects
+This Repository maintains the Databricks notebook and other objects
